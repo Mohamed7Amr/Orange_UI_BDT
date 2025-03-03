@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 23 17:29:29 EET 2025","Sun Feb 23 17:29:29 EET 2025","7","Default Suite","Alpha_MerchantAcceptancePortal_BDT","test_runners.Create_Payment_Runner","test_runners.Create_Payment_Runner","runScenario","Runs Cucumber Scenarios",""
+"passed","Sun Feb 23 17:29:29 EET 2025","Sun Feb 23 17:29:29 EET 2025","16","Default Suite","Alpha_MerchantAcceptancePortal_BDT","test_runners.Create_Payment_Runner","test_runners.Create_Payment_Runner","runScenario","Runs Cucumber Scenarios",""
+"passed","Sun Feb 23 17:30:57 EET 2025","Sun Feb 23 17:31:11 EET 2025","14790","Default Suite","Alpha_MerchantAcceptancePortal_BDT","test_runners.Create_Payment_Runner","test_runners.Create_Payment_Runner","runScenario","Runs Cucumber Scenarios",""
